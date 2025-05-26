@@ -1,0 +1,1 @@
+C:\Users\Administrator\AndroidStudioProjects\news_app\build\app\intermediates\cxx\Debug\2e434a1u\obj\x86_64
